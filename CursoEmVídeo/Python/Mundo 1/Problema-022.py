@@ -1,0 +1,6 @@
+nome = (input('Seu Nome Completo: '))
+div = nome.split()
+print('SEU NOME: {}'.format(nome.upper()))
+print('seu nome: {}'.format(nome.lower()))
+print('Letras ao Todo: {}'.format(len(nome.replace(' ',''))))
+print('Letras 1º Nome: {}'.format(len(div[0])))
