@@ -31,8 +31,4 @@ Atualmente o projeto está organizado em duas grandes categorias de estudos:
    - Comentários explicativos
 
 ## 📄 Licença
-Este projeto está licenciado sob [GNU Affero General Public License v3.0] - Pois foi a primeira licença que eu cliquei! Sinta-se a vontade para usar minhas respostas em seus exercícios.
-
-*"Dai a César o que é de César"* 🧠💻
-
----
+Este projeto está licenciado sob [GNU Affero General Public License v3.0] - Pois foi a primeira licença que eu cliquei! Sinta-se a vontade para usar as respostas em seus exercícios.
